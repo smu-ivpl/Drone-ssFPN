@@ -4,3 +4,4 @@ tqdm
 opencv-python
 matplotlib
 scipy
+pycocotools

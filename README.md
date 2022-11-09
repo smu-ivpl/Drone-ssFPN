@@ -19,6 +19,8 @@ This is the implementation of Scaled-YOLOv4-P6-s2 using PyTorch framwork.
 ## Installation
 
 ```
+# download COCO dataset: ../coco
+
 # create the docker container, you can change the share memory size if you have more.
 nvidia-docker run --name yolov4_csp -it -v your_coco_path/:/coco/ -v your_code_path/:/yolo --shm-size=64g nvcr.io/nvidia/pytorch:20.06-py3
 
