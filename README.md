@@ -5,8 +5,8 @@ This is the implementation of Scaled-YOLOv4-P6-s2 using PyTorch framwork.
 
 | Model | Test Size | AP<sup>test</sup> | AP<sub>50</sub><sup>test</sup> | AP<sub>75</sub><sup>test</sup> | AP<sub>S</sub><sup>test</sup> | AP<sub>M</sub><sup>test</sup> | AP<sub>L</sub><sup>test</sup> | weights |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
-| **YOLOv4-P6** | 1280 | **54.3%** | **72.3%** | **59.5%** | **36.6%** | **58.2%** | **65.5%** | `yolov4-p6.pt` |
-| **YOLOv4-P6-s2** | 1280 | **54.8%** | **72.8%** | **60.0%** | **37.7%** | **58.5%** | **65.9%** | `yolov4-p6-s2.pt` |
+| **YOLOv4-P6** | 1280 | **54.3%** | **72.3%** | **59.5%** | **36.6%** | **58.2%** | **65.5%** | [`yolov4-p6.pt`](https://drive.google.com/file/d/1XICoQuuenSI16HEyjJ6FGnZytCM0RJ5p/view?usp=share_link) |
+| **YOLOv4-P6-s2** | 1280 | **54.8%** | **72.8%** | **60.0%** | **37.7%** | **58.5%** | **65.9%** | [`yolov4-p6-s2.pt`](https://drive.google.com/file/d/13VeJdioOd5gqOfcWTQeLcE0R4Uuy3QvE/view?usp=share_link) |
 |  |  |  |  |  |  |  |
 
 
