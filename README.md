@@ -34,6 +34,8 @@ cd /yolo
 ### Environment
 - Ubuntu 18.04 with Tesla V100
 - Cuda 10.2
+- torch 1.9.0
+- torchvision 0.10.0
 ```
 pip install -r requirements.txt
 ```
