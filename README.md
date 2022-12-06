@@ -1,6 +1,6 @@
 # DNA+Drone ssFPN
 
-This is the implementation of Scaled-YOLOv4-P6-s2 using PyTorch framwork.
+This is the implementation of Scaled-YOLOv4-P6-s2 (scale sequence) using PyTorch framwork.
 
 
 | Model | Test Size | AP<sup>test</sup> | AP<sub>50</sub><sup>test</sup> | AP<sub>75</sub><sup>test</sup> | AP<sub>S</sub><sup>test</sup> | AP<sub>M</sub><sup>test</sup> | AP<sub>L</sub><sup>test</sup> | weights |
