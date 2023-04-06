@@ -16,12 +16,6 @@ This is the implementation of Scaled-YOLOv4-P6-s2 (scale sequence) using PyTorch
 |  |  |  |  |  |  |  |
 
 
-| Model | Test Size | AP<sup>val</sup> | AP<sub>50</sub><sup>val</sup> | AP<sub>75</sub><sup>val</sup> | AP<sub>S</sub><sup>val</sup> | AP<sub>M</sub><sup>val</sup> | AP<sub>L</sub><sup>val</sup> | 
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **YOLOv4-P6** | 1280 | **53.9%** | **72.0%** | **59.0%** | **39.3%** | **58.3%** | **66.6%** | 
-| **YOLOv4-P6-s2** | 1280 | **54.4%** | **72.6%** | **59.5%** | **39.3%** | **58.8%** | **66.9%** | 
-|  |  |  |  |  |  |  |
-
 ## Installation
 
 ```
