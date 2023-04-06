@@ -6,9 +6,9 @@
 [![paper](https://img.shields.io/badge/paper-PDF-<COLOR>.svg)](https://arxiv.org/abs/2208.11533)
 
 <p align="center">
-<img src="img/img2.jpg" width="70%" height="70%">
+<img src="img/img2.jpg" width="80%" height="80%">
 
-<img src="img/img1.jpg" width="80%" height="80%">
+<img src="img/img1.jpg" width="90%" height="90%">
 </p>
 
 ----------------------------
