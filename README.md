@@ -6,8 +6,15 @@
 [![paper](https://img.shields.io/badge/paper-PDF-<COLOR>.svg)](https://arxiv.org/abs/2208.11533)
 
 ----------------------------
-This is the implementation of Scaled-YOLOv4-P6-s2 (scale sequence) using PyTorch framwork.
+This is the implementation of Scaled-YOLOv4-P6-s2 (scale sequence) using PyTorch framwork.   
+[Download other pre-trained models.](https://drive.google.com/drive/folders/17pTfcEsxAX6YGbuclQJqGCJ-_NvAznk2?usp=share_link)
 
+
+| Model | Test Size | AP<sup>test</sup> | AP<sub>50</sub><sup>test</sup> | AP<sub>75</sub><sup>test</sup> | AP<sub>S</sub><sup>test</sup> | AP<sub>M</sub><sup>test</sup> | AP<sub>L</sub><sup>test</sup> | weights |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
+| **YOLOv4-P5** | 896 | **51.4%** | **69.9%** | **56.3%** | **33.1%** | **55.4%** | **62.4%** | [`yolov4-p5.pt`](https://drive.google.com/file/d/1BeGRkDcguegEWIAkDpySL7pN5NXCC0Nu/view?usp=share_link) |
+| **YOLOv4-P5-s2** | 896 | **52.3%** | **70.7%** | **57.4%** | **34.2%** | **56.2%** | **63.7%** | [`yolov4-p5-s2.pt`](https://drive.google.com/file/d/1YQvzz-IIAiWtw03YlyEbOcyoV-9l5NAZ/view?usp=share_link) |
+|  |  |  |  |  |  |  |
 
 | Model | Test Size | AP<sup>test</sup> | AP<sub>50</sub><sup>test</sup> | AP<sub>75</sub><sup>test</sup> | AP<sub>S</sub><sup>test</sup> | AP<sub>M</sub><sup>test</sup> | AP<sub>L</sub><sup>test</sup> | weights |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
