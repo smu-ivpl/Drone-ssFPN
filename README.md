@@ -5,7 +5,11 @@
 #### This repository is the official PyTorch implementation of the paper archived in _ssFPN: Scale Sequence (S^2) Feature Based-Feature Pyramid Network for Object Detection, arXiv [Categories: Computer Vision and Pattern Recognition (cs.CV)], arXiv ( https://arxiv.org/abs/2208.11533 )_.
 [![paper](https://img.shields.io/badge/paper-PDF-<COLOR>.svg)](https://arxiv.org/abs/2208.11533)
 
-<img src="img/img2.jpg">
+<p align="center">
+<img src="img/img2.jpg" width="70%" height="70%">
+
+<img src="img/img1.jpg" width="80%" height="80%">
+</p>
 
 ----------------------------
 This is the implementation of Scaled-YOLOv4-P6-s2 (scale sequence) using PyTorch framwork.   
